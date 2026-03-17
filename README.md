@@ -35,6 +35,8 @@ timestamp,depth,activity
 
 ---
 
+![ROV Depth Profile](images/depth-profile.png)
+
 ## Author
 
 Igor Carvalho  
