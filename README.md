@@ -35,7 +35,7 @@ timestamp,depth,activity
 
 ---
 
-![ROV Depth Profile](images/depth-profile.png)
+![ROV Depth Profile](C40B4683-050F-43DA-AE38-FF35BBFBA06C.png)
 
 ## Author
 
